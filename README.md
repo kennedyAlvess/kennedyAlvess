@@ -13,3 +13,4 @@
   <img align="center" alt="sql" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div><br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennedyAlvess&layout=compact)
