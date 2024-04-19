@@ -1,4 +1,4 @@
-## Hello! My name is Kennedy Alves 🍻
+## Olá! Meu nome é Kennedy Alves 🍻
 
 [![Linkedln](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alveskennedy.ti@gmail.com)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kennedyalvess/)
